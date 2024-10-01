@@ -1,0 +1,4 @@
+fastapi>=0.114.1
+fastapi-cli>=0.0.5
+requests>=2.3.2
+launchdarkly-server-sdk>=9.7.1
